@@ -1,3 +1,4 @@
+@Exploration
 Feature: Sign up/User Journey
   Background:
     * Navigate to www.carnext.com/tr-tr/
